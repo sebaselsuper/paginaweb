@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    padding: 0;
+    background-color: #530e0e;
+    color: rgb(236, 230, 230);
+}
+h1{
+    color: #ffcc00;
+    font-size: 50px;
+    font-family: Georgia, serif;
+}
+p{
+    font-size: 20px;
+    color: rgb(100, 127, 158);
+}
+img {
+    width: 400px;
+    height: 400px;
+    margin: 30px;
+}
+ul {
+    font-size: 18px;
+    color: rgb(200, 180, 180);
+}
