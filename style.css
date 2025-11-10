@@ -31,3 +31,9 @@ ul {
   50%  { color: rgb(39, 37, 37); }
   100% { color: rgb(203, 203, 209); }
 }
+.video {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #007BFF;
+    border-radius: 10px;
+}
